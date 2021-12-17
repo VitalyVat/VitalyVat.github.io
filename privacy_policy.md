@@ -16,8 +16,8 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 Google Play Services
- We are currently using a Payment Service Provider(s). Please note that when you are using these Payment Service Provider(s) and provide them with personal data it is their privacy policy that governs their processing of your personal data. You should, therefore, read their privacy policies carefully. You must be 18 years or older to make purchases in the Game.
- https://policies.google.com/privacy 
+  We are currently using a Payment Service Provider(s). Please note that when you are using these Payment Service Provider(s) and provide them with personal data it is their      privacy policy that governs their processing of your personal data. You should, therefore, read their privacy policies carefully. You must be 18 years or older to make purchases  in the Game. 
+  https://policies.google.com/privacy 
 
 AdMob
  Log Data
