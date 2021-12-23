@@ -1,5 +1,5 @@
 Privacy Policy
-Vit Games built the Fishing Village app as an Ad Supported app. This SERVICE  is provided by Vit Games at no cost and is intended for use as is.
+Vit Games built the Fishing Village app as an Ad Supported app. This SERVICE (Applications) is provided by Vit Games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service (Applications).
 
@@ -16,11 +16,11 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 Google Play Services
-  We are currently using a Payment Service Provider(s). Please note that when you are using these Payment Service Provider(s) and provide them with personal data it is their      privacy policy that governs their processing of your personal data. You should, therefore, read their privacy policies carefully. You must be 18 years or older to make purchases  in the Game. 
-  https://policies.google.com/privacy 
+We are currently using a Payment Service Provider(s). Please note that when you are using these Payment Service Provider(s) and provide them with personal data it is their privacy policy that governs their processing of your personal data. You should, therefore, read their privacy policies carefully. You must be 18 years or older to make purchases in the Game.
+https://policies.google.com/privacy
 
 AdMob
- Log Data
+Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
@@ -29,6 +29,9 @@ Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Settings Personalization of ads in your account
+https://adssettings.google.com/authenticated
 
 Service Providers
 
